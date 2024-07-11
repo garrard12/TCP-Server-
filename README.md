@@ -1,6 +1,6 @@
 # Simple Multi-threaded HTTP Server
 
-This is a simple multi-threaded HTTP server implemented in C. The server can handle multiple concurrent connections and serves different types of requests.
+This is a cheap and dirty multi-threaded HTTP server implemented in C. The server can handle multiple concurrent connections and serves different types of requests.
 
 ## Features
 
